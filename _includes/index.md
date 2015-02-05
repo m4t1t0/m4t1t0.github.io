@@ -1,3 +1,3 @@
 This is my personal blog
 
-Hello Esteban
+Hello Esteban y Jose
